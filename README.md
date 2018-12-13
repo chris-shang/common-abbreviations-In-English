@@ -5,7 +5,7 @@ common abbreviations in English,常见英文缩写
 We may come across some abbreviations in English, but we're not sure what that means. This repo will record some common abbreviations in English.
 
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|
-| :------| ------: | :------: |
+| ------| ------ | ------ |
 |AFAK |as far as I know |据我所知 |
 |AKA |also know as |亦称作 |
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |
@@ -23,7 +23,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |ID |Identification |身份证件 |
 |IQ |Intelligence Quotient |智商 |
 |IMO |in my opinion |在我看来 |
-|JMSJava message serviceJava消息服务 |
+|JMS |Java message service |Java消息服务 |
 |LTD |limited |有限责任公司 |
 |MVC |Model, View and Controller |模型视图控制器 |
 |NPE |Null pointer Exception |空指针异常 |
