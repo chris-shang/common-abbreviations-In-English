@@ -1,12 +1,12 @@
 # common-abbreviations-In-English
 common abbreviations in English,常见英文缩写
 
-## Backgroung
+## Background
 We may come across some abbreviations in English, but we're not sure what that means. This repo will record some common abbreviations in English.
 
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|
 | ------| ------ | ------ |
-|AFAK |as far as I know |据我所知 |
+|AFAIK |as far as I know |据我所知 |
 |AKA |also know as |亦称作 |
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |
 |APM |Application Performance Management | 应用性能管理 |
@@ -40,3 +40,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |TLDR |too long; didn't read. |太长,不读了 |
 |TTL |Time to live |存活时间 |
 |URL |Uniform Resource Locator |全球资源定位器 |
+|DOA |Dead On Arrival | |
+|ETA |Estimated Time of Arrival| |
+|WIP |Work In Progress |
+|WFH |Work From Home |
