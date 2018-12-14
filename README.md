@@ -11,8 +11,11 @@ We may come across some abbreviations in English, but we're not sure what that m
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |
 |APM |Application Performance Management | 应用性能管理 |
 |ASAP |as soon as possible |尽快 |
+|BBL |Be back later |晚点回来 |
 |BD |Business Development |商业拓展 |
 |BDD |Behavior-Driven Development |行为驱动开发 |
+|BFN |Bye for now |再见 |
+|BTW | By the way |附帶一提 |
 |BVT |build verification test |版本验证测试 |
 |CORS |Cross-origin resource sharing |跨域资源共享 |
 |CSRF |Cross-site request forgery |跨站点请求伪造 |
@@ -21,13 +24,17 @@ We may come across some abbreviations in English, but we're not sure what that m
 |FYI |for your information |供参考 |
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |
 |ID |Identification |身份证件 |
+|IIRC |If I remember correctly |如果我没记错 |
 |IQ |Intelligence Quotient |智商 |
 |IMO |in my opinion |在我看来 |
 |JMS |Java message service |Java消息服务 |
 |LTD |limited |有限责任公司 |
+|LOL |Laughing out loud | 大笑 |
 |MVC |Model, View and Controller |模型视图控制器 |
 |NPE |Null pointer Exception |空指针异常 |
+|NP |No problem |没问题 |
 |OOM |Out of memory |内存溢出 |
+|OOO |Out of Ofice | 休假 |
 |ORM |Object relational mapping |对象关系映射 |
 |PTO |Paid Time Off |带薪休假 |
 |QA |Quality Assurance |质量保证 |
@@ -40,3 +47,6 @@ We may come across some abbreviations in English, but we're not sure what that m
 |TLDR |too long; didn't read. |太长,不读了 |
 |TTL |Time to live |存活时间 |
 |URL |Uniform Resource Locator |全球资源定位器 |
+|WFH |Working from home |在家工作 |
+|WTF |What the fuck! |搞什么呀！(脏话) |
+|WTG |Way to go |做得好 |
