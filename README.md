@@ -1,12 +1,12 @@
 # common-abbreviations-In-English
 common abbreviations in English,常见英文缩写
 
-## Backgroung
+## Background
 We may come across some abbreviations in English, but we're not sure what that means. This repo will record some common abbreviations in English.
 
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|
 | ------| ------ | ------ |
-|AFAK |as far as I know |据我所知 |
+|AFAIK |as far as I know |据我所知 |
 |AKA |also know as |亦称作 |
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |
 |APM |Application Performance Management | 应用性能管理 |
@@ -20,6 +20,8 @@ We may come across some abbreviations in English, but we're not sure what that m
 |CORS |Cross-origin resource sharing |跨域资源共享 |
 |CSRF |Cross-site request forgery |跨站点请求伪造 |
 |DIY |Do it yourself |自己动手做 |
+|DOA |Dead On Arrival |到院死亡,到货即损（表某东西刚开始即挂掉） |
+|ETA |Estimated Time of Arrival|预计到达时间 |
 |FAQ |Frequently Asked Questions |常见问题 |
 |FYI |for your information |供参考 |
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |
@@ -48,5 +50,6 @@ We may come across some abbreviations in English, but we're not sure what that m
 |TTL |Time to live |存活时间 |
 |URL |Uniform Resource Locator |全球资源定位器 |
 |WFH |Working from home |在家工作 |
+|WIP |Work In Progress |进行中 |
 |WTF |What the fuck! |搞什么呀！(脏话) |
 |WTG |Way to go |做得好 |
