@@ -39,8 +39,10 @@ We may come across some abbreviations in English, but we're not sure what that m
 |MVC |Model, View and Controller |模型视图控制器 |
 |NPE |Null pointer Exception |空指针异常 |
 |NP |No problem |没问题 |
+|NVM |never mind |没关系 |
 |OOM |Out of memory |内存溢出 |
 |OOO |Out of Ofice | 休假 |
+|OOP |Object Oriented Programmingm |面向对象编程 |
 |ORM |Object relational mapping |对象关系映射 |
 |PTO |Paid Time Off |带薪休假 |
 |QA |Quality Assurance |质量保证 |
@@ -58,3 +60,4 @@ We may come across some abbreviations in English, but we're not sure what that m
 |WIP |Work In Progress |进行中 |
 |WTF |What the fuck! |搞什么呀！(脏话) |
 |WTG |Way to go |做得好 |
+|WYSIWYG|what you see is what you get |所见即所得 |
