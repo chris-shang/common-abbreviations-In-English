@@ -21,6 +21,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |CHW |Community Health Worker |社区卫生工作者 |
 |CORS |Cross-origin resource sharing |跨域资源共享 |
 |CSRF |Cross-site request forgery |跨站点请求伪造 |
+|CRLF |carriage return/line feed |回车换行 |
 |DIY |Do it yourself |自己动手做 |
 |DOA |Dead On Arrival |到院死亡,到货即损(表某东西刚开始即挂掉) |
 |ETA |Estimated Time of Arrival|预计到达时间 |
@@ -35,6 +36,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |JMS |Java message service |Java消息服务 |
 |LGTM |Look Good To Me |看起来不错 |
 |LTD |limited |有限责任公司 |
+|LTS |Long Term Support |长期支持 |
 |LOL |Laughing out loud | 大笑 |
 |MVC |Model, View and Controller |模型视图控制器 |
 |NPE |Null pointer Exception |空指针异常 |
@@ -49,6 +51,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |RIP |rest in peace |安息吧 |
 |SOA |Service Oriented Architecture |面向服务的架构 |
 |SOAP |Simple Object Access Protocol |简单对象访问协议 |
+|SUDO|SuperUser Do |Linux常用命令,以管理员身份运行 |
 |TBA |To Be Announced |待通知 |
 |TBD |To be determined |待决定的 |
 |TGIF |Thank God it’s Friday |感谢上帝，今天是星期五 |
