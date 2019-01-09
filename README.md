@@ -46,8 +46,11 @@ We may come across some abbreviations in English, but we're not sure what that m
 |OOO |Out of Ofice | 休假 |
 |OOP |Object Oriented Programmingm |面向对象编程 |
 |ORM |Object relational mapping |对象关系映射 |
+|PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|
+|PST |Pacific Standard Time | 太平洋标准时间|
 |PTO |Paid Time Off |带薪休假 |
 |QA |Quality Assurance |质量保证 |
+|QQ |Quick question |快速的问题 |
 |RIP |rest in peace |安息吧 |
 |SOA |Service Oriented Architecture |面向服务的架构 |
 |SOAP |Simple Object Access Protocol |简单对象访问协议 |
