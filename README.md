@@ -24,6 +24,8 @@ We may come across some abbreviations in English, but we're not sure what that m
 |CRLF |carriage return/line feed |回车换行 |
 |DIY |Do it yourself |自己动手做 |
 |DOA |Dead On Arrival |到院死亡,到货即损(表某东西刚开始即挂掉) |
+|DOT |Data Transfer Object |数据传输对象 |
+|DRY |Don't repeat yourself |不要重复 |
 |ETA |Estimated Time of Arrival|预计到达时间 |
 |FAQ |Frequently Asked Questions |常见问题 |
 |FYI |for your information |供参考 |
@@ -57,6 +59,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |SUDO|SuperUser Do |Linux常用命令,以管理员身份运行 |
 |TBA |To Be Announced |待通知 |
 |TBD |To be determined |待决定的 |
+|T&Cs|Terms and Conditions |销售条款和细则 |
 |TGIF |Thank God it’s Friday |感谢上帝，今天是星期五 |
 |TLA |three-letter abbreviation |三个字母的缩写 |
 |TLDR |too long; didn't read. |太长,不读了 |
