@@ -51,7 +51,9 @@ We may come across some abbreviations in English, but we're not sure what that m
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|
 |PST |Pacific Standard Time | 太平洋标准时间|
 |PTO |Paid Time Off |带薪休假 |
+|PV |Page View |页面访问量 |
 |QA |Quality Assurance |质量保证 |
+|QPS |Query Per Second |每秒查询数量 |
 |QQ |Quick question |快速的问题 |
 |RIP |rest in peace |安息吧 |
 |SOA |Service Oriented Architecture |面向服务的架构 |
@@ -65,6 +67,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |TLDR |too long; didn't read. |太长,不读了 |
 |TTL |Time to live |存活时间 |
 |URL |Uniform Resource Locator |全球资源定位器 |
+|UV |Unique Visitor |网站独立访客 |
 |WFH |Working from home |在家工作 |
 |WIP |Work In Progress |进行中 |
 |WTF |What the fuck! |搞什么呀！(脏话) |
