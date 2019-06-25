@@ -7,6 +7,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|
 | ------| ------ | ------ |
 |AFAIK |as far as I know |据我所知 |
+|AFK | away from the keyboard | 暂离;稍后回来 |
 |AKA |also know as |亦称作 |
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |
 |APM |Application Performance Management | 应用性能管理 |
