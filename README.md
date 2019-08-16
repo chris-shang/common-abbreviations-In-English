@@ -12,6 +12,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |
 |APM |Application Performance Management | 应用性能管理 |
 |ASAP |as soon as possible |尽快 |
+|AWOL |absent without leave |开小差 |
 |BBL |Be back later |晚点回来 |
 |BD |Business Development |商业拓展 |
 |BDD |Behavior-Driven Development |行为驱动开发 |
@@ -37,7 +38,9 @@ We may come across some abbreviations in English, but we're not sure what that m
 |IQ |Intelligence Quotient |智商 |
 |IMO |in my opinion |在我看来 |
 |JMS |Java message service |Java消息服务 |
+|KPI |Key Performance Indicator |关键业绩指标 |
 |LGTM |Look Good To Me |看起来不错 |
+|LMK |Let me know |请告诉我,请让我知道 |
 |LTD |limited |有限责任公司 |
 |LTS |Long Term Support |长期支持 |
 |LOL |Laughing out loud | 大笑 |
@@ -45,6 +48,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |NPE |Null pointer Exception |空指针异常 |
 |NP |No problem |没问题 |
 |NVM |never mind |没关系 |
+|OMW |on my way |这就过来 |
 |OOM |Out of memory |内存溢出 |
 |OOO |Out of Ofice | 休假 |
 |OOP |Object Oriented Programmingm |面向对象编程 |
@@ -67,6 +71,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |TLA |three-letter abbreviation |三个字母的缩写 |
 |TLDR |too long; didn't read. |太长,不读了 |
 |TTL |Time to live |存活时间 |
+|TYVM |Thank you very much |非常感谢 |
 |URL |Uniform Resource Locator |全球资源定位器 |
 |UV |Unique Visitor |网站独立访客 |
 |WFH |Working from home |在家工作 |
