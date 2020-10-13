@@ -18,6 +18,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |BTW | By the way |附帶一提 |
 |BVT |build verification test |版本验证测试 |
 |CAP |Consistency, Availability, Partrition tolerance |一致性,可用性,分区容错性.CAP理论 |
+|CK |Clinical Key|临床精钥 |
 |CHW |Community Health Worker |社区卫生工作者 |
 |CORS |Cross-origin resource sharing |跨域资源共享 |
 |CSRF |Cross-site request forgery |跨站点请求伪造 |
@@ -29,6 +30,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |DRY |Don't repeat yourself |不要重复 |
 |ETA |Estimated Time of Arrival|预计到达时间 |
 |FAQ |Frequently Asked Questions |常见问题 |
+|FTA |Full text access |paper的全文访问权限 |
 |FYI |for your information |供参考 |
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |
@@ -41,10 +43,14 @@ We may come across some abbreviations in English, but we're not sure what that m
 |LTD |limited |有限责任公司 |
 |LTS |Long Term Support |长期支持 |
 |LOL |Laughing out loud | 大笑 |
+|MAU |monthly activated users|月活用户 |
+|MP |mini-program |小程序 |
 |MVC |Model, View and Controller |模型视图控制器 |
+|MVP |minimum Viable Product |最小可行产品 |
 |NPE |Null pointer Exception |空指针异常 |
 |NP |No problem |没问题 |
 |NVM |never mind |没关系 |
+|OA |open access |具有开放权限的paper |
 |OOM |Out of memory |内存溢出 |
 |OOO |Out of Ofice | 休假 |
 |OOP |Object Oriented Programmingm |面向对象编程 |
