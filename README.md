@@ -24,6 +24,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |CRLF |carriage return/line feed |回车换行 |
 |DIY |Do it yourself |自己动手做 |
 |DOA |Dead On Arrival |到院死亡,到货即损(表某东西刚开始即挂掉) |
+|DOI |Document Object Identifier |文档的唯一标识符 |
 |DOT |Data Transfer Object |数据传输对象 |
 |DRY |Don't repeat yourself |不要重复 |
 |ETA |Estimated Time of Arrival|预计到达时间 |
@@ -51,6 +52,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|
 |PST |Pacific Standard Time | 太平洋标准时间|
 |PTO |Paid Time Off |带薪休假 |
+|TPR |Technology Project Review |项目技术概览 |
 |QA |Quality Assurance |质量保证 |
 |QQ |Quick question |快速的问题 |
 |RIP |rest in peace |安息吧 |
