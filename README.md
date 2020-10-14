@@ -27,6 +27,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |CORS |Cross-origin resource sharing |跨域资源共享 |
 |CSRF |Cross-site request forgery |跨站点请求伪造 |
 |CRLF |carriage return/line feed |回车换行 |
+|DAU|Daily Active Users|日活跃数|
 |DIY |Do it yourself |自己动手做 |
 |DOA |Dead On Arrival |到院死亡,到货即损(表某东西刚开始即挂掉) |
 |DOI |Document Object Identifier |文档的唯一标识符 |
@@ -62,9 +63,11 @@ We may come across some abbreviations in English, but we're not sure what that m
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|
 |PST |Pacific Standard Time | 太平洋标准时间|
 |PTO |Paid Time Off |带薪休假 |
+|PV  |Page View|页面浏览量|
 |TPR |Technology Project Review |项目技术概览 |
 |QA |Quality Assurance |质量保证 |
 |QQ |Quick question |快速的问题 |
+|ROI|return on investment|投资回报率|
 |RIP |rest in peace |安息吧 |
 |SOA |Service Oriented Architecture |面向服务的架构 |
 |SOAP |Simple Object Access Protocol |简单对象访问协议 |
@@ -77,6 +80,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |TLDR |too long; didn't read. |太长,不读了 |
 |TTL |Time to live |存活时间 |
 |URL |Uniform Resource Locator |全球资源定位器 |
+|UV |Unique View|独立访客数|
 |WFH |Working from home |在家工作 |
 |WIP |Work In Progress |进行中 |
 |WTF |What the fuck! |搞什么呀！(脏话) |
