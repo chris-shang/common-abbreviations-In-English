@@ -57,7 +57,7 @@ We may come across some abbreviations in English, but we're not sure what that m
 |NVM |never mind |没关系 |
 |OA |open access |具有开放权限的paper |
 |OOM |Out of memory |内存溢出 |
-|OOO |Out of Ofice | 休假 |
+|OOO |Out of Office | 休假 |
 |OOP |Object Oriented Programmingm |面向对象编程 |
 |ORM |Object relational mapping |对象关系映射 |
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|
