@@ -9,5 +9,5 @@ This info has sync with MP, search "英文简称" in wechat, you can find the MP
 We may come across some abbreviations in English, but we're not sure what that means. This repo will record some common abbreviations in English.
 
 ## Data
-If you want to help maintain the ABBR data, please clone this repo and add the data here.
+If you want to help maintain the ABBR data, please clone this repo and add the data [here](https://api.github.com/repos/chris-shang/common-abbreviations-In-English/contents/README.md).
 
