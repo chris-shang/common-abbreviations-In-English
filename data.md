@@ -1,6 +1,6 @@
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|行业/公司(industry/company)|
 | ------| ------ | ------ | ------ |
-|AFAIK |as far as I know |据我所知 |Daily |
+|AFAIK |as far as I know |据我所知 |Daily|
 |AKA |also know as |亦称作 |Daily|
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |Internet|
 |APM |Application Performance Management | 应用性能管理 |Internet|
@@ -55,6 +55,8 @@
 |PTO |Paid Time Off |带薪休假 |Daily|
 |RSS |Research Solution Sales|科研助手销售 |Elsevier|
 |SD |Science Direct |Elsevier的一款论文检索的产品 |Elsevier|
+|SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
+|STMJ|Science Technology Medical Journal |publishing business of Elsevier |Elsevier|
 |TMT |Tencent Machine Translation|腾讯机器翻译 |Internet|
 |TPR |Technology Project Review |项目技术概览 |Elsevier|
 |QA |Quality Assurance |质量保证 |Internet|
