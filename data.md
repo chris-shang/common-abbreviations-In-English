@@ -1,5 +1,6 @@
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|行业/公司(industry/company)|
 | ------| ------ | ------ | ------ |
+|ADR|Architectural Decision Records|机构层面的决定记录|Elsevier|
 |AFAIK |as far as I know |据我所知 |Daily|
 |AKA |also know as |亦称作 |Daily|
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |Internet|
@@ -16,6 +17,7 @@
 |CK |Clinical Key|临床精钥 |Elsevier|
 |CHW |Community Health Worker |社区卫生工作者 |Daily|
 |CORS |Cross-origin resource sharing |跨域资源共享 |Internet|
+|CP |Clinical path|临床通路 |Elsevier|
 |CSRF |Cross-site request forgery |跨站点请求伪造 |Internet|
 |CRLF |carriage return/line feed |回车换行 |Daily|
 |DIY |Do it yourself |自己动手做 |Daily|
@@ -28,6 +30,7 @@
 |FTA |Full text access |paper的全文访问权限 |Elsevier|
 |FYI |for your information |供参考 |Daily|
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |Daily|
+|HCM |Health & Commercial Markets|HCM team|Elsevier|
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |Internet|
 |ID |Identification |身份证件 |Daily|
 |IIRC |If I remember correctly |如果我没记错 |Daily|
@@ -51,6 +54,7 @@
 |OOP |Object Oriented Programmingm |面向对象编程 |Internet|
 |ORM |Object relational mapping |对象关系映射 |Internet|
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|Internet|
+|PPLC |Product & Platform Life Cycle |产品平台生命周期|Elsevier|
 |PST |Pacific Standard Time | 太平洋标准时间|Daily|
 |PTO |Paid Time Off |带薪休假 |Daily|
 |RSS |Research Solution Sales|科研助手销售 |Elsevier|
