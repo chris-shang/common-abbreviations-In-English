@@ -2,8 +2,10 @@
 common abbreviations in English,常见英文缩写
 
 ## Story
-Imagine you are a newcomer in an international company, there are lots of abbreviations you don't understand in the docs, what should you do?
-Imagine you are a new English learner, there are lots of abbreviations in daily chat messages you have no idea what's that, what should you do?
+- Imagine you are a newcomer in an international company, there are lots of abbreviations you don't understand in the docs, what should you do?
+- Imagine you are a new English learner, there are lots of abbreviations in daily chat messages you have no idea what's that, what should you do?
+
+### Then here is the answer.
 
 ## WeChat Mini-Program
 This info has sync with MP, search "英文简称" in wechat, you can find the MP, or scan the following Code.
