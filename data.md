@@ -50,7 +50,7 @@
 |NVM |never mind |没关系 |Daily|
 |OA |open access |具有开放权限的paper |Elsevier|
 |OOM |Out of memory |内存溢出 |Daily|
-|OOO |Out of Ofice | 休假 |Daily|
+|OOO |Out of Office | 休假 |Daily|
 |OOP |Object Oriented Programmingm |面向对象编程 |Internet|
 |ORM |Object relational mapping |对象关系映射 |Internet|
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|Internet|
