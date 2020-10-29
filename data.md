@@ -14,8 +14,9 @@
 |BVT |build verification test |版本验证测试 |Internet|
 |CAP |Consistency, Availability, Partrition tolerance |一致性,可用性,分区容错性.CAP理论 |Internet|
 |CDS |Clinical decision support |Clinical decision支持|Elsevier|
-|CK |Clinical Key|临床精钥 |Elsevier|
 |CHW |Community Health Worker |社区卫生工作者 |Daily|
+|CK |Clinical Key|临床精钥 |Elsevier|
+|CMK|Customer Master Key|客户主密钥|Internet|
 |CORS |Cross-origin resource sharing |跨域资源共享 |Internet|
 |CP |Clinical path|临床通路 |Elsevier|
 |CSRF |Cross-site request forgery |跨站点请求伪造 |Internet|
@@ -37,6 +38,7 @@
 |IQ |Intelligence Quotient |智商 |Daily|
 |IMO |in my opinion |在我看来 |Daily|
 |JMS |Java message service |Java消息服务 |Internet|
+|KMS|Key Management Service |Amazon的一种服务|Internet|
 |LGTM |Look Good To Me |看起来不错 |Daily|
 |LTD |limited |有限责任公司 |Daily|
 |LTS |Long Term Support |长期支持 |Internet|
@@ -57,6 +59,7 @@
 |PPLC |Product & Platform Life Cycle |产品平台生命周期|Elsevier|
 |PST |Pacific Standard Time | 太平洋标准时间|Daily|
 |PTO |Paid Time Off |带薪休假 |Daily|
+|RDS|Relational Database Service|关系型数据库服务|Internet|
 |RSS |Research Solution Sales|科研助手销售 |Elsevier|
 |SD |Science Direct |Elsevier的一款论文检索的产品 |Elsevier|
 |SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
@@ -65,9 +68,11 @@
 |TPR |Technology Project Review |项目技术概览 |Elsevier|
 |QA |Quality Assurance |质量保证 |Internet|
 |QQ |Quick question |快速的问题 |Daily|
+|RCP|Recommended Content Provider|推荐内容提供者|Elsevier|
 |RIP |rest in peace |安息吧 |Daily|
 |SOA |Service Oriented Architecture |面向服务的架构 |Internet|
 |SOAP |Simple Object Access Protocol |简单对象访问协议 |Internet|
+|SPA|Single page Application|单页应用|Internet|
 |SSO |Single sign-on |单点登录 |Internet|
 |STMJ |Science Technology Medical Journal|科技医疗杂志 |Elsevier|
 |SUDO|SuperUser Do |Linux常用命令,以管理员身份运行 |Internet|
