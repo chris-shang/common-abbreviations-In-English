@@ -26,6 +26,8 @@
 |DOI |Document Object Identifier |文档的唯一标识符 |Internet|
 |DOT |Data Transfer Object |数据传输对象 |Internet|
 |DRY |Don't repeat yourself |不要重复 |Daily|
+|EC2|Elastic Compute Cloud|弹性云计算|Internet|
+|ECS|Elastic Container Service|弹性容器服务|Internet|
 |ETA |Estimated Time of Arrival|预计到达时间 |Daily|
 |FAQ |Frequently Asked Questions |常见问题 |Daily|
 |FTA |Full text access |paper的全文访问权限 |Elsevier|
@@ -33,6 +35,7 @@
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |Daily|
 |HCM |Health & Commercial Markets|HCM team|Elsevier|
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |Internet|
+|IAM |Identify and Access Management|身份和权限管理|Internet|
 |ID |Identification |身份证件 |Daily|
 |IIRC |If I remember correctly |如果我没记错 |Daily|
 |IQ |Intelligence Quotient |智商 |Daily|
