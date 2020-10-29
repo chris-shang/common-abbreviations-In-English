@@ -1,6 +1,6 @@
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|行业/公司(industry/company)|
 | ------| ------ | ------ | ------ |
-|ADR|Architectural Decision Records|机构层面的决定记录|Elsevier|
+|ADR|Architectural Decision Records|架构层面的决定记录|Elsevier|
 |AFAIK |as far as I know |据我所知 |Daily|
 |AKA |also know as |亦称作 |Daily|
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |Internet|
