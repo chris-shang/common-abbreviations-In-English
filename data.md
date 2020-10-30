@@ -11,10 +11,12 @@
 |BDD |Behavior-Driven Development |行为驱动开发 |Internet|
 |BFN |Bye for now |再见 |Daily|
 |BTW | By the way |附帶一提 |Daily|
+|BU|Business Unit|业务单元|Internet|
 |BVT |build verification test |版本验证测试 |Internet|
 |CAP |Consistency, Availability, Partrition tolerance |一致性,可用性,分区容错性.CAP理论 |Internet|
 |CDS |Clinical decision support |Clinical decision支持|Elsevier|
 |CHW |Community Health Worker |社区卫生工作者 |Daily|
+|CI/CD|Continuous Integration/Continunous Delivery,Deployment|持续集成,缴付,部署|Internet|
 |CK |Clinical Key|临床精钥 |Elsevier|
 |CMK|Customer Master Key|客户主密钥|Internet|
 |CORS |Cross-origin resource sharing |跨域资源共享 |Internet|
@@ -28,6 +30,7 @@
 |DRY |Don't repeat yourself |不要重复 |Daily|
 |EC2|Elastic Compute Cloud|弹性云计算|Internet|
 |ECS|Elastic Container Service|弹性容器服务|Internet|
+|EKS|Elastic Kubernetes Service|弹性Kubernetes服务|Internet|
 |ETA |Estimated Time of Arrival|预计到达时间 |Daily|
 |FAQ |Frequently Asked Questions |常见问题 |Daily|
 |FTA |Full text access |paper的全文访问权限 |Elsevier|
@@ -77,6 +80,7 @@
 |SOAP |Simple Object Access Protocol |简单对象访问协议 |Internet|
 |SPA|Single page Application|单页应用|Internet|
 |SSO |Single sign-on |单点登录 |Internet|
+|SSM|Simple System Management|简单系统管理(AWS的一项服务)|Internet|
 |STMJ |Science Technology Medical Journal|科技医疗杂志 |Elsevier|
 |SUDO|SuperUser Do |Linux常用命令,以管理员身份运行 |Internet|
 |TBA |To Be Announced |待通知 |Daily|
