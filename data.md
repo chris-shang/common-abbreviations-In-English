@@ -19,6 +19,7 @@
 |CI/CD|Continuous Integration/Continunous Delivery,Deployment|持续集成,缴付,部署|Internet|
 |CK |Clinical Key|临床精钥 |Elsevier|
 |CMK|Customer Master Key|客户主密钥|Internet|
+|CMS|Content Metadata Service|SD元数据服务|Elsevier|
 |CORS |Cross-origin resource sharing |跨域资源共享 |Internet|
 |CP |Clinical path|临床通路 |Elsevier|
 |CSRF |Cross-site request forgery |跨站点请求伪造 |Internet|
@@ -61,7 +62,9 @@
 |OOO |Out of Office | 休假 |Daily|
 |OOP |Object Oriented Programmingm |面向对象编程 |Internet|
 |ORM |Object relational mapping |对象关系映射 |Internet|
+|PBP |Publication Banner Provider|SD网站上面书或杂志Banner的微服务提供者|Elsevier|
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|Internet|
+|PII|Publication Item Identifier|出版社唯一标识符|Elsevier|
 |PPLC |Product & Platform Life Cycle |产品平台生命周期|Elsevier|
 |PST |Pacific Standard Time | 太平洋标准时间|Daily|
 |PTO |Paid Time Off |带薪休假 |Daily|
