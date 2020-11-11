@@ -13,6 +13,7 @@
 |BTW | By the way |附帶一提 |Daily|
 |BU|Business Unit|业务单元|Internet|
 |BVT |build verification test |版本验证测试 |Internet|
+|CAGR |Compound Annual Growth Rate|复合年增长率|Elsevier|
 |CAP |Consistency, Availability, Partrition tolerance |一致性,可用性,分区容错性.CAP理论 |Internet|
 |CDS |Clinical decision support |Clinical decision支持|Elsevier|
 |CHW |Community Health Worker |社区卫生工作者 |Daily|
@@ -32,6 +33,7 @@
 |EC2|Elastic Compute Cloud|弹性云计算|Internet|
 |ECS|Elastic Container Service|弹性容器服务|Internet|
 |EKS|Elastic Kubernetes Service|弹性Kubernetes服务|Internet|
+|EOS|Employee Opinion Survey|员工意见调查|Elsevier|
 |ETA |Estimated Time of Arrival|预计到达时间 |Daily|
 |FAQ |Frequently Asked Questions |常见问题 |Daily|
 |FTA |Full text access |paper的全文访问权限 |Elsevier|
