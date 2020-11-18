@@ -46,6 +46,7 @@
 |IIRC |If I remember correctly |如果我没记错 |Daily|
 |IQ |Intelligence Quotient |智商 |Daily|
 |IMO |in my opinion |在我看来 |Daily|
+|JHM |Journal Home Page|Journal首页|Elsevier|
 |JMS |Java message service |Java消息服务 |Internet|
 |KMS|Key Management Service |Amazon的一种服务|Internet|
 |LGTM |Look Good To Me |看起来不错 |Daily|
@@ -96,6 +97,7 @@
 |TLDR |too long; didn't read. |太长,不读了 |Daily|
 |TTL |Time to live |存活时间 |Internet|
 |URL |Uniform Resource Locator |全球资源定位器 |Internet|
+|WAF|Web Application Firewall|Web应用防火墙|Internet|
 |WFH |Working from home |在家工作 |Daily|
 |WIP |Work In Progress |进行中 |Daily|
 |WTF |What the fuck! |搞什么呀！(脏话) |Daily|
