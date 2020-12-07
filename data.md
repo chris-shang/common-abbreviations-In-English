@@ -39,13 +39,15 @@
 |FTA |Full text access |paper的全文访问权限 |Elsevier|
 |FYI |for your information |供参考 |Daily|
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |Daily|
+|HATEOAS|Hypermedia as the Engine of Application State|Restful风格，超媒体即应用状态引擎|Internet|
 |HCM |Health & Commercial Markets|HCM team|Elsevier|
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |Internet|
 |IAM |Identify and Access Management|身份和权限管理|Internet|
 |ID |Identification |身份证件 |Daily|
 |IIRC |If I remember correctly |如果我没记错 |Daily|
-|IQ |Intelligence Quotient |智商 |Daily|
 |IMO |in my opinion |在我看来 |Daily|
+|IQ |Intelligence Quotient |智商 |Daily|
+|ISSN|International Standard Serial Number|国际标准期刊编号|Elsevier|
 |JHM |Journal Home Page|Journal首页|Elsevier|
 |JMS |Java message service |Java消息服务 |Internet|
 |KMS|Key Management Service |Amazon的一种服务|Internet|
@@ -74,8 +76,9 @@
 |RDS|Relational Database Service|关系型数据库服务|Internet|
 |RSS |Research Solution Sales|科研助手销售 |Elsevier|
 |SD |Science Direct |Elsevier的一款论文检索的产品 |Elsevier|
-|SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
+|SRE |Site Reliability Engineering|网站可靠性管理|Internet|
 |STMJ|Science Technology Medical Journal |publishing business of Elsevier |Elsevier|
+|SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
 |TMT |Tencent Machine Translation|腾讯机器翻译 |Internet|
 |TPR |Technology Project Review |项目技术概览 |Elsevier|
 |QA |Quality Assurance |质量保证 |Internet|
