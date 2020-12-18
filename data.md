@@ -1,10 +1,11 @@
 |缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|行业/公司(industry/company)|
 | ------| ------ | ------ | ------ |
+|AA|Adobe Analytics |Adobe分析工具|Elsevier|
 |ADR|Architectural Decision Records|架构层面的决定记录|Elsevier|
 |AFAIK |as far as I know |据我所知 |Daily|
 |AKA |also know as |亦称作 |Daily|
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |Internet|
-|APM |Application Performance Management | 应用性能管理 |Internet|
+|APM |Application Performance Monitoring | 应用性能监控 |Internet|
 |ASAP |as soon as possible |尽快 |Daily|
 |BBL |Be back later |晚点回来 |Daily|
 |BD |Business Development |商业拓展 |Daily|
@@ -30,6 +31,7 @@
 |DOI |Document Object Identifier |文档的唯一标识符 |Internet|
 |DOT |Data Transfer Object |数据传输对象 |Internet|
 |DRY |Don't repeat yourself |不要重复 |Daily|
+|EA |Enterprise Architect|企业架构师|Elsevier|
 |EC2|Elastic Compute Cloud|弹性云计算|Internet|
 |ECS|Elastic Container Service|弹性容器服务|Internet|
 |EKS|Elastic Kubernetes Service|弹性Kubernetes服务|Internet|
@@ -47,6 +49,7 @@
 |IIRC |If I remember correctly |如果我没记错 |Daily|
 |IMO |in my opinion |在我看来 |Daily|
 |IQ |Intelligence Quotient |智商 |Daily|
+|ISBN|International Standard Book Number|国际标准书籍编号|Elsevier|
 |ISSN|International Standard Serial Number|国际标准期刊编号|Elsevier|
 |JHM |Journal Home Page|Journal首页|Elsevier|
 |JMS |Java message service |Java消息服务 |Internet|
@@ -61,6 +64,8 @@
 |MVP |minimum Viable Product |最小可行产品 |Internet|
 |NPE |Null pointer Exception |空指针异常 |Internet|
 |NP |No problem |没问题 |Daily|
+|NRDB|New Relic DataBase|NewRelic数据库|Internet|
+|NRQL|New Relic Query Language|NewRelic查询语言|Internet|
 |NVM |never mind |没关系 |Daily|
 |OA |open access |具有开放权限的paper |Elsevier|
 |OOM |Out of memory |内存溢出 |Daily|
