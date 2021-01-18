@@ -51,6 +51,7 @@
 |IQ |Intelligence Quotient |智商 |Daily|
 |ISBN|International Standard Book Number|国际标准书籍编号|Elsevier|
 |ISSN|International Standard Serial Number|国际标准期刊编号|Elsevier|
+|IYKYK|If you know, you know|懂得都懂|Daily|
 |JHM |Journal Home Page|Journal首页|Elsevier|
 |JMS |Java message service |Java消息服务 |Internet|
 |KMS|Key Management Service |Amazon的一种服务|Internet|
@@ -64,6 +65,7 @@
 |MVP |minimum Viable Product |最小可行产品 |Internet|
 |NPE |Null pointer Exception |空指针异常 |Internet|
 |NP |No problem |没问题 |Daily|
+|NPC|Net Promoter Score|净推荐值|Elsevier|
 |NRDB|New Relic DataBase|NewRelic数据库|Internet|
 |NRQL|New Relic Query Language|NewRelic查询语言|Internet|
 |NVM |never mind |没关系 |Daily|
@@ -74,11 +76,13 @@
 |ORM |Object relational mapping |对象关系映射 |Internet|
 |PBP |Publication Banner Provider|SD网站上面书或杂志Banner的微服务提供者|Elsevier|
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|Internet|
+|PEM |Privacy Enhanced Mail|保密邮件，公共密钥加密标准|Internet|
 |PII|Publication Item Identifier|出版社唯一标识符|Elsevier|
 |PPLC |Product & Platform Life Cycle |产品平台生命周期|Elsevier|
 |PST |Pacific Standard Time | 太平洋标准时间|Daily|
 |PTO |Paid Time Off |带薪休假 |Daily|
 |RDS|Relational Database Service|关系型数据库服务|Internet|
+|ROI|return on investment|投资回报率|Internet|
 |RSS |Research Solution Sales|科研助手销售 |Elsevier|
 |SD |Science Direct |Elsevier的一款论文检索的产品 |Elsevier|
 |SRE |Site Reliability Engineering|网站可靠性管理|Internet|
@@ -86,6 +90,7 @@
 |SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
 |TMT |Tencent Machine Translation|腾讯机器翻译 |Internet|
 |TPR |Technology Project Review |项目技术概览 |Elsevier|
+|TTFB|Time To First Byte|网页首字节加载时间|Internet|
 |QA |Quality Assurance |质量保证 |Internet|
 |QQ |Quick question |快速的问题 |Daily|
 |RCP|Recommended Content Provider|推荐内容提供者|Elsevier|
