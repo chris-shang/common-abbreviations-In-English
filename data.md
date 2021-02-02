@@ -4,6 +4,7 @@
 |ADR|Architectural Decision Records|架构层面的决定记录|Elsevier|
 |AFAIK |as far as I know |据我所知 |Daily|
 |AKA |also know as |亦称作 |Daily|
+|ALB |application load balance|应用的负载均衡|Internet|
 |AMQP |Advanced Message Queuing Protocol |高级消息队列协议 |Internet|
 |APM |Application Performance Monitoring | 应用性能监控 |Internet|
 |ASAP |as soon as possible |尽快 |Daily|
@@ -39,6 +40,8 @@
 |ETA |Estimated Time of Arrival|预计到达时间 |Daily|
 |FAQ |Frequently Asked Questions |常见问题 |Daily|
 |FTA |Full text access |paper的全文访问权限 |Elsevier|
+|FTE|Full time employee|全职员工|Daily|
+|FWIW|For what it's worth|随便说说，姑且听之|Daily|
 |FYI |for your information |供参考 |Daily|
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |Daily|
 |HATEOAS|Hypermedia as the Engine of Application State|Restful风格，超媒体即应用状态引擎|Internet|
@@ -63,6 +66,7 @@
 |MP |mini-program |小程序 |Elsevier|
 |MVC |Model, View and Controller |模型视图控制器 |Internet|
 |MVP |minimum Viable Product |最小可行产品 |Internet|
+|NFR|non-functional requirements|非功能性需求|Internet|
 |NPE |Null pointer Exception |空指针异常 |Internet|
 |NP |No problem |没问题 |Daily|
 |NPC|Net Promoter Score|净推荐值|Elsevier|
@@ -87,6 +91,7 @@
 |SD |Science Direct |Elsevier的一款论文检索的产品 |Elsevier|
 |SRE |Site Reliability Engineering|网站可靠性管理|Internet|
 |STMJ|Science Technology Medical Journal |publishing business of Elsevier |Elsevier|
+|SWE|Software Engineer|软件工程师|Internet|
 |SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
 |TMT |Tencent Machine Translation|腾讯机器翻译 |Internet|
 |TPR |Technology Project Review |项目技术概览 |Elsevier|
