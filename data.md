@@ -38,17 +38,15 @@
 |FYI |for your information |供参考 |Daily|
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |Daily|
 |HATEOAS|Hypermedia as the Engine of Application State|Restful风格，超媒体即应用状态引擎|Internet|
-|HCM |Health & Commercial Markets|HCM team|Elsevier|
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |Internet|
 |IAM |Identify and Access Management|身份和权限管理|Internet|
 |ID |Identification |身份证件 |Daily|
 |IIRC |If I remember correctly |如果我没记错 |Daily|
 |IMO |in my opinion |在我看来 |Daily|
 |IQ |Intelligence Quotient |智商 |Daily|
-|ISBN|International Standard Book Number|国际标准书籍编号|Elsevier|
-|ISSN|International Standard Serial Number|国际标准期刊编号|Elsevier|
+|ISBN|International Standard Book Number|国际标准书籍编号|Publishing|
+|ISSN|International Standard Serial Number|国际标准期刊编号|Publishing|
 |IYKYK|If you know, you know|懂得都懂|Daily|
-|JHM |Journal Home Page|Journal首页|Elsevier|
 |JMS |Java message service |Java消息服务 |Internet|
 |KMS|Key Management Service |Amazon的一种服务|Internet|
 |LGTM |Look Good To Me |看起来不错 |Daily|
