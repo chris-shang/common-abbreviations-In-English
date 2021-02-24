@@ -1,7 +1,6 @@
-|缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|行业/公司(industry/company)|
+|缩写(Abbreviation)|全拼(Complete Spelling)|中文翻译(Chinese Translation)|行业(industry)|
 | ------| ------ | ------ | ------ |
-|AA|Adobe Analytics |Adobe分析工具|Elsevier|
-|ADR|Architectural Decision Records|架构层面的决定记录|Elsevier|
+|AA|Adobe Analytics |Adobe分析工具|Internet|
 |AFAIK |as far as I know |据我所知 |Daily|
 |AKA |also know as |亦称作 |Daily|
 |ALB |application load balance|应用的负载均衡|Internet|
@@ -15,16 +14,11 @@
 |BTW | By the way |附帶一提 |Daily|
 |BU|Business Unit|业务单元|Internet|
 |BVT |build verification test |版本验证测试 |Internet|
-|CAGR |Compound Annual Growth Rate|复合年增长率|Elsevier|
 |CAP |Consistency, Availability, Partrition tolerance |一致性,可用性,分区容错性.CAP理论 |Internet|
-|CDS |Clinical decision support |Clinical decision支持|Elsevier|
 |CHW |Community Health Worker |社区卫生工作者 |Daily|
 |CI/CD|Continuous Integration/Continunous Delivery,Deployment|持续集成,缴付,部署|Internet|
-|CK |Clinical Key|临床精钥 |Elsevier|
 |CMK|Customer Master Key|客户主密钥|Internet|
-|CMS|Content Metadata Service|SD元数据服务|Elsevier|
 |CORS |Cross-origin resource sharing |跨域资源共享 |Internet|
-|CP |Clinical path|临床通路 |Elsevier|
 |CSRF |Cross-site request forgery |跨站点请求伪造 |Internet|
 |CRLF |carriage return/line feed |回车换行 |Daily|
 |DIY |Do it yourself |自己动手做 |Daily|
@@ -32,14 +26,13 @@
 |DOI |Document Object Identifier |文档的唯一标识符 |Internet|
 |DOT |Data Transfer Object |数据传输对象 |Internet|
 |DRY |Don't repeat yourself |不要重复 |Daily|
-|EA |Enterprise Architect|企业架构师|Elsevier|
+|EA |Enterprise Architect|企业架构师|Internet|
 |EC2|Elastic Compute Cloud|弹性云计算|Internet|
 |ECS|Elastic Container Service|弹性容器服务|Internet|
 |EKS|Elastic Kubernetes Service|弹性Kubernetes服务|Internet|
-|EOS|Employee Opinion Survey|员工意见调查|Elsevier|
+|EOS|Employee Opinion Survey|员工意见调查|Daily|
 |ETA |Estimated Time of Arrival|预计到达时间 |Daily|
 |FAQ |Frequently Asked Questions |常见问题 |Daily|
-|FTA |Full text access |paper的全文访问权限 |Elsevier|
 |FTE|Full time employee|全职员工|Daily|
 |FWIW|For what it's worth|随便说说，姑且听之|Daily|
 |FYI |for your information |供参考 |Daily|
@@ -63,49 +56,41 @@
 |LTS |Long Term Support |长期支持 |Internet|
 |LOL |Laughing out loud | 大笑 |Daily|
 |MAU |monthly activated users|月活用户 |Internet|
-|MP |mini-program |小程序 |Elsevier|
+|MP |mini-program |小程序 |Internet|
 |MVC |Model, View and Controller |模型视图控制器 |Internet|
 |MVP |minimum Viable Product |最小可行产品 |Internet|
 |NFR|non-functional requirements|非功能性需求|Internet|
 |NPE |Null pointer Exception |空指针异常 |Internet|
 |NP |No problem |没问题 |Daily|
-|NPC|Net Promoter Score|净推荐值|Elsevier|
+|NPC|Net Promoter Score|净推荐值|Internet|
 |NRDB|New Relic DataBase|NewRelic数据库|Internet|
 |NRQL|New Relic Query Language|NewRelic查询语言|Internet|
 |NVM |never mind |没关系 |Daily|
-|OA |open access |具有开放权限的paper |Elsevier|
+|OA |open access |具有开放权限的paper |Internet|
 |OOM |Out of memory |内存溢出 |Daily|
 |OOO |Out of Office | 休假 |Daily|
 |OOP |Object Oriented Programmingm |面向对象编程 |Internet|
 |ORM |Object relational mapping |对象关系映射 |Internet|
-|PBP |Publication Banner Provider|SD网站上面书或杂志Banner的微服务提供者|Elsevier|
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|Internet|
 |PEM |Privacy Enhanced Mail|保密邮件，公共密钥加密标准|Internet|
-|PII|Publication Item Identifier|出版社唯一标识符|Elsevier|
-|PPLC |Product & Platform Life Cycle |产品平台生命周期|Elsevier|
+|PII|Publication Item Identifier|出版社唯一标识符|Publishing|
+|PPLC |Product & Platform Life Cycle |产品平台生命周期|Internet|
 |PST |Pacific Standard Time | 太平洋标准时间|Daily|
 |PTO |Paid Time Off |带薪休假 |Daily|
 |RDS|Relational Database Service|关系型数据库服务|Internet|
 |ROI|return on investment|投资回报率|Internet|
-|RSS |Research Solution Sales|科研助手销售 |Elsevier|
-|SD |Science Direct |Elsevier的一款论文检索的产品 |Elsevier|
 |SRE |Site Reliability Engineering|网站可靠性管理|Internet|
-|STMJ|Science Technology Medical Journal |publishing business of Elsevier |Elsevier|
 |SWE|Software Engineer|软件工程师|Internet|
-|SUTD |Stay Up To Date|保持最新, Elsevier其中的一条产品线|Elsevier|
 |TMT |Tencent Machine Translation|腾讯机器翻译 |Internet|
-|TPR |Technology Project Review |项目技术概览 |Elsevier|
 |TTFB|Time To First Byte|网页首字节加载时间|Internet|
 |QA |Quality Assurance |质量保证 |Internet|
 |QQ |Quick question |快速的问题 |Daily|
-|RCP|Recommended Content Provider|推荐内容提供者|Elsevier|
 |RIP |rest in peace |安息吧 |Daily|
 |SOA |Service Oriented Architecture |面向服务的架构 |Internet|
 |SOAP |Simple Object Access Protocol |简单对象访问协议 |Internet|
 |SPA|Single page Application|单页应用|Internet|
 |SSO |Single sign-on |单点登录 |Internet|
 |SSM|Simple System Management|简单系统管理(AWS的一项服务)|Internet|
-|STMJ |Science Technology Medical Journal|科技医疗杂志 |Elsevier|
 |SUDO|SuperUser Do |Linux常用命令,以管理员身份运行 |Internet|
 |TBA |To Be Announced |待通知 |Daily|
 |TBD |To be determined |待决定的 |Daily|
