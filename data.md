@@ -14,13 +14,15 @@
 |BTW | By the way |附帶一提 |Daily|
 |BU|Business Unit|业务单元|Internet|
 |BVT |build verification test |版本验证测试 |Internet|
-|CAP |Consistency, Availability, Partrition tolerance |一致性,可用性,分区容错性.CAP理论 |Internet|
+|CAP |Consistency, Availability, Partition tolerance |一致性,可用性,分区容错性.CAP理论 |Internet|
 |CHW |Community Health Worker |社区卫生工作者 |Daily|
-|CI/CD|Continuous Integration/Continunous Delivery,Deployment|持续集成,缴付,部署|Internet|
+|CI/CD|Continuous Integration/Continuous Delivery,Deployment|持续集成,缴付,部署|Internet|
 |CMK|Customer Master Key|客户主密钥|Internet|
 |CORS |Cross-origin resource sharing |跨域资源共享 |Internet|
 |CSRF |Cross-site request forgery |跨站点请求伪造 |Internet|
 |CRLF |carriage return/line feed |回车换行 |Daily|
+|DBMIB|Don't bother me, I'm busy|别烦我，我很忙|Daily|
+|CWOT|Complete waste of time|完全是浪费视角|Daily|
 |DIY |Do it yourself |自己动手做 |Daily|
 |DOA |Dead On Arrival |到院死亡,到货即损(表某东西刚开始即挂掉) |Daily|
 |DOI |Document Object Identifier |文档的唯一标识符 |Internet|
@@ -33,21 +35,31 @@
 |EOS|Employee Opinion Survey|员工意见调查|Daily|
 |ETA |Estimated Time of Arrival|预计到达时间 |Daily|
 |FAQ |Frequently Asked Questions |常见问题 |Daily|
-|FTE|Full time employee|全职员工|Daily|
+|FAWC|For anyone who cares|对在乎的人来说||
+|FOMO|fear of missing out|错失恐惧症|Daily|
+|FTE| Full-time employee|全职员工|Daily|
 |FWIW|For what it's worth|随便说说，姑且听之|Daily|
 |FYI |for your information |供参考 |Daily|
+|GMTA|Greate minds think alike|英雄所见略同|Daily|
 |GMV |Gross Merchandise Volume |(一段时间)成交总额 |Daily|
 |HATEOAS|Hypermedia as the Engine of Application State|Restful风格，超媒体即应用状态引擎|Internet|
 |HTTP |Hyper Text Transport Protocol |超文本传输协议 |Internet|
 |IAM |Identify and Access Management|身份和权限管理|Internet|
+|ICYMI|In case you missed it|万一你错过了|Daily|
 |ID |Identification |身份证件 |Daily|
+|IDC|I don't care|随便|Daily|
+|IDK|I don't know|我不知道|Daily|
+|IFYP |I feel your pain|我懂你|Daily|
 |IIRC |If I remember correctly |如果我没记错 |Daily|
 |IMO |in my opinion |在我看来 |Daily|
 |IQ |Intelligence Quotient |智商 |Daily|
+|IRL |In Real Life|现实|Daily|
 |ISBN|International Standard Book Number|国际标准书籍编号|Publishing|
 |ISSN|International Standard Serial Number|国际标准期刊编号|Publishing|
 |IYKYK|If you know, you know|懂得都懂|Daily|
+|J4F|Just for fun|开心就好|Daily|
 |JMS |Java message service |Java消息服务 |Internet|
+|JOMO|Joy of missing out|放弃参加聚会但一点不担心|Daily|
 |KMS|Key Management Service |Amazon的一种服务|Internet|
 |LGTM |Look Good To Me |看起来不错 |Daily|
 |LTD |limited |有限责任公司 |Daily|
@@ -55,7 +67,7 @@
 |LOL |Laughing out loud | 大笑 |Daily|
 |MAU |monthly activated users|月活用户 |Internet|
 |MP |mini-program |小程序 |Internet|
-|MVC |Model, View and Controller |模型视图控制器 |Internet|
+|MVC |Model, View, and Controller |模型视图控制器 |Internet|
 |MVP |minimum Viable Product |最小可行产品 |Internet|
 |NFR|non-functional requirements|非功能性需求|Internet|
 |NPE |Null pointer Exception |空指针异常 |Internet|
@@ -67,18 +79,24 @@
 |OA |open access |具有开放权限的paper |Internet|
 |OOM |Out of memory |内存溢出 |Daily|
 |OOO |Out of Office | 休假 |Daily|
-|OOP |Object Oriented Programmingm |面向对象编程 |Internet|
+|OOP |Object Oriented Programming |面向对象编程 |Internet|
 |ORM |Object relational mapping |对象关系映射 |Internet|
 |PECS |Producer Extends Consumer Super | Java集合泛型(PECS)原则|Internet|
 |PEM |Privacy Enhanced Mail|保密邮件，公共密钥加密标准|Internet|
 |PII|Publication Item Identifier|出版社唯一标识符|Publishing|
+|POV|Point of view|从...的视角看|Daily|
 |PPLC |Product & Platform Life Cycle |产品平台生命周期|Internet|
 |PST |Pacific Standard Time | 太平洋标准时间|Daily|
 |PTO |Paid Time Off |带薪休假 |Daily|
 |RDS|Relational Database Service|关系型数据库服务|Internet|
 |ROI|return on investment|投资回报率|Internet|
+|SOML|Story of my life|我也是（不是好事）|Daily|
 |SRE |Site Reliability Engineering|网站可靠性管理|Internet|
+|SRSLY|Seriously?|有没有搞错|Daily|
+|SSDD|same stuff, different day|还是老样子|Daily|
 |SWE|Software Engineer|软件工程师|Internet|
+|TL;DR|Too Long; Didn't read|相当于summary或者key points|Daily|
+|TNTL|Trying not to laugh|憋笑中|Daily|
 |TMT |Tencent Machine Translation|腾讯机器翻译 |Internet|
 |TTFB|Time To First Byte|网页首字节加载时间|Internet|
 |QA |Quality Assurance |质量保证 |Internet|
@@ -98,9 +116,11 @@
 |TLDR |too long; didn't read. |太长,不读了 |Daily|
 |TTL |Time to live |存活时间 |Internet|
 |URL |Uniform Resource Locator |全球资源定位器 |Internet|
+|w8|wait|等一下|Daily|
 |WAF|Web Application Firewall|Web应用防火墙|Internet|
 |WFH |Working from home |在家工作 |Daily|
 |WIP |Work In Progress |进行中 |Daily|
 |WTF |What the fuck! |搞什么呀！(脏话) |Daily|
 |WTG |Way to go |做得好 |Daily|
 |WYSIWYG|what you see is what you get |所见即所得 |Daily|
+|YGTR|You got that right|你说的没错|Daily|
